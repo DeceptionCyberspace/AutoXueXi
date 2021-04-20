@@ -11,11 +11,11 @@
 
 2、模拟器安装学xi强国APP，建议使用最新版
 
-3、打开文件夹AutoXue Config，利用exe程序进行一键配置。
+3、安装与配置。
 
-    2.1、安装ADB，并配置环境变量。adb安装教程：https://www.cnblogs.com/tangbohu2008/p/9475092.html; 如果配置完成环境变量，命令行cmd窗口输入adb version 会有版本号显示。建议将安装好的adb.exe复制，粘贴覆到盖雷电目录下，保持adb.exe版本一致。
+    3.1、安装ADB，并配置环境变量。adb安装教程：https://www.cnblogs.com/tangbohu2008/p/9475092.html; 如果配置完成环境变量，命令行cmd窗口输入adb version 会有版本号显示。建议将安装好的adb.exe复制，粘贴覆到盖雷电目录下，保持adb.exe版本一致。
     
-    2.2、配置学xi强guo用户名和密码，使用notepad++打开config.ini，可以看到[usernames]项目，根据用户配置示例，按照示例说明可以配置用户；在[virtual]项目下，添加模拟器路径；配置完成后，保存文件，注意：一定要以utf-8编码格式保存。所以强烈建议采用notepad++编辑，notepad++下载地址：https://dl.pconline.com.cn/html_2/1/117/id=10699&pn=0.html
+    3.2、配置学xi强guo用户名和密码，使用notepad++打开config.ini，可以看到[usernames]项目，根据用户配置示例，按照示例说明可以配置用户；在[virtual]项目下，添加模拟器路径；配置完成后，保存文件，注意：一定要以utf-8编码格式保存。所以强烈建议采用notepad++编辑，notepad++下载地址：https://dl.pconline.com.cn/html_2/1/117/id=10699&pn=0.html
 
 4、在模拟器内第一次运行学习强国APP，会有各种新手提示，必须手动提前登录点掉各种提示，提示在主要在答题界面、百灵视频界面、得分界面等等，把学习强国APP新手提示刷没，否则app的操作提示会导致程序崩溃；
 
