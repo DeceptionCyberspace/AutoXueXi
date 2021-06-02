@@ -1,0 +1,27 @@
+[
+    {
+        "category": "争上游答题",
+        "content": "",
+        "options": [
+            "华中局",
+            "华东局",
+            "东北局",
+            "西北局"
+        ],
+        "answer": "争上游不知道",
+        "excludes": "",
+        "notes": ""
+    },
+    {
+        "category": "争上游答题",
+        "content": "",
+        "options": [
+            "中性粒细胞",
+            "巨噬细胞",
+            "NK细胞"
+        ],
+        "answer": "争上游不知道",
+        "excludes": "",
+        "notes": ""
+    }
+]
